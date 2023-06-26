@@ -1,2 +1,4 @@
 # Repositoria para atividades desenvolvidas na linguagem C
-execercicios escritos em sala de aula ou extra classe
+Exercicios Programados em sala de aula usando a linguagem C na Faculdade de Tecnologia de Botucatu - FATEC
+
+Data: 2023
